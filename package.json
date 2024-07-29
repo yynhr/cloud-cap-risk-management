@@ -6,17 +6,17 @@
     "license": "UNLICENSED",
     "private": true,
     "dependencies": {
-        "@sap-cloud-sdk/http-client": "^2.6.0",
-        "@sap-cloud-sdk/util": "^2.6.0",
-        "@sap/cds": "^6",
-        "@sap/xssec": "^3.2.8",
+        "@sap-cloud-sdk/http-client": "^3.16.0",
+        "@sap-cloud-sdk/util": "^3.16.0",
+        "@sap/cds": "^8",
+        "@sap/xssec": "^4.2.1",
         "express": "^4",
-        "hdb": "^0.19.0",
-        "passport": "^0.5.0"
+        "hdb": "^0.19.8",
+        "passport": "^0.7.0"
     },
     "devDependencies": {
-        "@sap/ux-specification": "^1.90.12",
-        "sqlite3": "^5.0.2"
+        "@sap/ux-specification": "^1.120.15",
+        "sqlite3": "^5.1.7"
     },
     "engines": {
         "node": "^16"
